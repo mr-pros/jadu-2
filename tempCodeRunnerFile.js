@@ -1,0 +1,1 @@
+const randomNum = Math.floor(Math.random() * 2);
